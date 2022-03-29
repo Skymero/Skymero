@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Skymero
-- 👀 I’m interested in ... app development, signal processing, embedded systems, and game development
-- 🌱 I’m currently learning ... kivy, openCV-python, 
-- 💞️ I’m looking to collaborate on ... mobile apps, or game development projects
+- 👀 I’m interested in ... app development, signal processing, and embedded systems
+- 🌱 I’m currently learning ... django
+- 💞️ I’m looking to collaborate on ... mobile apps, or web apps
 - 📫 How to reach me ... 
 
 <!---
